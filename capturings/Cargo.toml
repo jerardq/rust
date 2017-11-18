@@ -1,0 +1,6 @@
+[package]
+name = "capturings"
+version = "0.1.0"
+authors = ["Jerard.Q"]
+
+[dependencies]
